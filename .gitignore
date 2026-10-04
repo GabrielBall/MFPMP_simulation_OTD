@@ -1,0 +1,24 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# Generated MATLAB artefacts
+*.mex*
+codegen/
+slprj/
+sccprj/
+
+# Packaged toolbox output
+release/
+*.mltbx
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

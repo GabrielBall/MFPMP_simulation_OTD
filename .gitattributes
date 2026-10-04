@@ -1,0 +1,15 @@
+# Normalise text files
+*.m text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# MATLAB binary/container formats
+*.mlx binary
+*.mlapp binary
+*.mat binary
+*.fig binary
+*.slx binary
+*.prj binary
